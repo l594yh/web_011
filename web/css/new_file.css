@@ -1,0 +1,77 @@
+.ui.vertical.inverted.detail.segment {
+    background-image: url(../images/detail.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.right.menu > .ui.inverted.circular.button{
+	position:relative ;
+	background-size: cover;
+	width: 86;
+	height: 36px;
+	top: 50%;
+	right: 18px;
+	transform: translate(0%,-50%);
+}
+
+.ui.circular.image {
+	position: absolute;
+	right: 100px;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.admin-class{
+	padding: 50px;
+	position: relative;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+.ui.inverted.red.fixed.borderless.menu{
+	background-color: #ff3a36;
+	position: relative;
+	height: 56px;
+	
+}
+
+.ui.inverted.red.fixed.borderless.menu > .ui.image{
+	position:absolute ;
+	background-size: cover;
+	top: 50%;
+	left: 18px;
+	transform: translate(0%,-50%);
+}
+
+.ui.buttons{
+	position: relative;
+	margin-top: 46px;
+	margin-bottom: 28px;
+	top: 46px;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+.ui.basic.segment{
+	margin-top: 28px;
+	margin-left: 308px;
+	margin-right: 308px;
+	margin-bottom: 40px;
+}
+
+.ui.column > .ui.header{
+	font-size: 20px;
+	position: relative;
+	height: 20px;
+
+}
+
+.ui.buttons.bottom{
+	margin-top: 74px;
+	height: 40px;
+	background-color: #FFFFFF;
+}
